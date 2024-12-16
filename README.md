@@ -9,9 +9,9 @@ The links displayed below shows the steps taken:
 
 
 - ![Creating aws account](./shots%20from%20Ngnix/Creating-aws-account.md)
-- ![Login to aws](./shots%20from%20Ngnix/Login-to-aws.jpg)
-- ![aws start](./shots%20from%20Ngnix/start-instance.jpg)
-- ![adding Http and Https rules](./shots%20from%20Ngnix/adding-HTTP.jpg)
+- ![Login to aws](./shots%20from%20Ngnix/Login-to-aws.md)
+- ![aws start](./shots%20from%20Ngnix/start-instance.md)
+- ![adding Http and Https rules](./shots%20from%20Ngnix/adding-HTTP.md)
 - ![launch-EC2](./shots%20from%20Ngnix/launch-EC2.jpg)
 - ![Launch instance](./shots%20from%20Ngnix/Lanch-instance.jpg)
 - ![Server name](./shots%20from%20Ngnix/Server-name.jpg)
