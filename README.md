@@ -3,6 +3,7 @@ Project Title : Hosting HTML on Nginx on AWS ubuntu server
 
 
 Description: Steps to Create an aws ubuntu server, install a webserver and host your HTML webpage
+webserver ip http://54.91.229.135/
 
 
 #- ![Creating aws account](Creating-aws-account.jpg)
