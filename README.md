@@ -22,4 +22,4 @@ webserver ip http://54.91.229.135/
 - ![Nginx server status](./shots%20from%20Ngnix/Nginx-running.jpg)
 - ![copying from PC to Nginx](./shots%20from%20Ngnix/copying-from-PC-to-Nginx-webserver.jpg)
 - ![Adding webpage to Nginx](./shots%20from%20Ngnix/Adding-my-webpage-to-Nginx.jpg)
-- ![Webpage for Ngnix](./shots%20from%20Ngnix/Hosted-webpage-on-Nginx-on-Aws.jpg)
+- ![Webpage for Ngnix](./shots%20from%20Ngnix/Hosted-webpage-on-Nginx-on-Aws.md)
