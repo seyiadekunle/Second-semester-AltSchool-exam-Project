@@ -6,7 +6,7 @@ Description: Steps to Create an aws ubuntu server, install a webserver and host 
 webserver ip http://54.91.229.135/
 
 
-- [Creating aws account](./Creating-aws-account.jpg)
+- ![Creating aws account](./Creating-aws-account.jpg)
 - ![launch-EC2](launch-EC2.jpg)
 - ![Launch instance](Lanch-instance.jpg)
 - ![Server name](Server-name.jpg)
